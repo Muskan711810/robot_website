@@ -1,0 +1,73 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.service-container {
+    /* background-color: rgb(3, 3, 138); */
+    /* color: white; */
+    padding: 20px; /* Adjust as needed */
+}
+.services{
+    background-color: blue;
+    max-width: 270px;
+    color: white;
+}
+
+.service {
+    display: flex;
+    align-items: center;
+}
+
+.r1 {
+    font-style: oblique;
+    color: darkviolet;
+}
+
+.service-text {
+    display: inline-block;
+    margin-right: 10px;
+    position: relative; /* Set position to relative */
+}
+
+.service-text::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -2px; /* Adjust as needed */
+    width: 100%; /* Cover the whole width */
+    height: 1px;
+    background-color: red /* Set your underline color */
+}
+
+.img1 {
+    height: 100px;
+    width: 20%;
+    border: 1px solid red;
+    /* margin-left: auto; Remove this line */
+}
+.r2
+{
+    background-color: blue;
+    background-position: center ;
+    max-width: 670px;
+    color: white;
+    text-align: center; 
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    margin-top: 30px;
+
+}
+.expertise-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .r3 {
+    font-style: oblique;
+    color: darkviolet;
+    margin-right: 5px; /* Adjust as needed */
+  }
+  
+
