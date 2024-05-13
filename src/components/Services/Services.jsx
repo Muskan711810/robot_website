@@ -50,7 +50,7 @@ const Services = () => {
   <p>Our team comprises seasoned educators and robotics specialists with a wealth of experience in both education and technology.</p></div>
 
       <div className="expertise-container">  <h4 className='r3'>Customization:</h4> 
-         <p> We understand that every educational institution has unique needs, 
+         <p>We understand that every educational institution has unique needs, 
          and we tailor our programs and services accordingly.</p>
          </div> 
          <div className="expertise-container">
@@ -68,6 +68,10 @@ const Services = () => {
           <p> stay at the forefront of technological advancements in robotics education, 
            continually updating our programs and resources to reflect the latest trends and developments.</p>
            </div>
+      </div>
+
+      <div>
+        <h4 className='contact'>therobotedcompany@gmail.com </h4> <h4 className='contact'> +917780484363,8919455711</h4>
       </div>
     </div>
   );

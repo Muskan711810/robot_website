@@ -68,6 +68,26 @@ body {
     font-style: oblique;
     color: darkviolet;
     margin-right: 5px; /* Adjust as needed */
+    margin-bottom: 30px;
   }
+  .contact {
+    background-color: blue;
+    color: white;
+    max-width: 290px;
+    /* padding-top: 30px; */
+    /* margin-top: 40px; */
+    /* padding: 20px; Add padding to create space between content */
+    text-align: center;
+  }
+  .red
+  {
+    background-color: red;
+    color: white;
+    max-width: 20px;
+  }
+  
+  
+  
+  
   
 
