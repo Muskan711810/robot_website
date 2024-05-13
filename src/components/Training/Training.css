@@ -67,3 +67,33 @@ body {
     color: red;
     font-size:large
 }
+.png1
+{
+    height: 150px;
+    width: 20%;
+    /* padding-right: 4rem;
+    padding-left: 4rem; */
+    padding-right: 4rem;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 20px;
+}
+.contact1{
+    background-color: blue;
+    font-size: large;
+    color: white;
+    margin-left: 350px;
+    margin-right: 350px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-right: 2rem;
+    
+}
+.contact2{
+    background-color: blue;
+    font-size: large;
+    color: white;
+    padding-left: 4rem; */
+    
+}

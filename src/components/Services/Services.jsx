@@ -71,7 +71,7 @@ const Services = () => {
       </div>
 
       <div>
-        <h4 className='contact'>therobotedcompany@gmail.com </h4> <h4 className='contact'> +917780484363,8919455711</h4>
+        <p className='contact1'>therobotedcompany@gmail.com  <span>+917780484363,8919455711</span></p>
       </div>
     </div>
   );

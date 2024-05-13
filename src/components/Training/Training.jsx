@@ -1,8 +1,8 @@
 import React from 'react';
 import './Training.css';
-import '../../assets/png1.png'
-import '../../assets/png2.png'
-import '../../assets/r1.jpg'
+import png1 from '../../assets/png1.png'
+import png2 from '../../assets/png2.png'
+import png01 from'../../assets/png01.jpg'
 
 const Training = () => {
   return (
@@ -41,9 +41,13 @@ const Training = () => {
       </div>
 
       <div>
-        <img src={r1} alt="" />
-        <img src={png2} alt="" />
-        <img src={png333} alt="" />
+        <img src={png1} alt=""  className='png1'/>
+        <img src={png2} alt=""  className='png1'/>
+        <img src={png01} alt=""  className='png1'/>
+      </div>
+
+      <div>
+        <p className='contact1'>therobotedcompany@gmail.com  <span className='contact2'>+917780484363,8919455711</span></p>
       </div>
     </div>
   );

@@ -70,15 +70,25 @@ body {
     margin-right: 5px; /* Adjust as needed */
     margin-bottom: 30px;
   }
-  .contact {
+  .contact1{
     background-color: blue;
+    font-size: large;
     color: white;
-    max-width: 290px;
-    /* padding-top: 30px; */
-    /* margin-top: 40px; */
-    /* padding: 20px; Add padding to create space between content */
+    margin-left: 350px;
+    margin-right: 350px;
     text-align: center;
-  }
+    justify-content: center;
+    align-items: center;
+    padding-right: 2rem;
+    
+}
+.contact2{
+    background-color: blue;
+    font-size: large;
+    color: white;
+    padding-left: 4rem; */
+    
+}
   .red
   {
     background-color: red;
