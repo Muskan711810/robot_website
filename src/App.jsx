@@ -14,7 +14,7 @@ const App = () => {
   return (
     <>
       <h1>Robot Website</h1>
-      <Home />
+      <Home/>
       <Services />
       <Acadmics />
       <Training />

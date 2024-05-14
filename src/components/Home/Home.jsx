@@ -1,3 +1,4 @@
+import React from 'react'
 import "./Home.css";
 import LogoEg from "../../assets/LogoEg.jpeg";
 import Kid1 from "../../assets/Kid1.jpeg";
