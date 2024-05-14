@@ -68,6 +68,11 @@
     margin-left: 80px;
     margin-right: 80px;
     margin-top: 20px;border-radius: 25px;
+    transition: transform 0.5s;
+}
+.png1:hover
+{
+    transform: scale(1.1);
 }
 .contact1{
     background-color: blue;

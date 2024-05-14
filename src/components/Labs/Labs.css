@@ -64,12 +64,17 @@
     width: 20%;
     /* padding-right: 4rem;
     padding-left: 4rem; */
-    padding-right: 4rem;
-    margin-left: 47px;
-    margin-right: 20px;
+    padding-right: 2rem;
+    margin-left: 50px;
+    margin-right: 15px;
     margin-top: 20px;
     border-radius: 25px;
+    transition: transform 0.5s;
 }
+.png11:hover{
+    transform: scale(1.1);
+}
+
 .contact1{
     background-color: blue;
     font-size: large;

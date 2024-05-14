@@ -31,17 +31,22 @@ const Companies = () => {
 
       <div>
         <img src={v1} alt="" className='png1'/>
-        <p>VISHAKHAPATNAM</p>
         <img src={v2} alt="" className='png1'/>
         <img src={v3} alt="" className='png1'/>
+        <span className='city'>VISAKHAPATNAM</span>
+        <span className='city1'>HYEDRABAD</span>
+        <span className='city2'>TIRUPATI </span>
         <img src={v4} alt="" className='png1'/>
         <img src={v5} alt="" className='png1'/>
         <img src={v6} alt="" className='png1'/>
+        <span className='city'>VIJAYAWADA</span>
+        <span className='city11'>CHENNAI</span>
+        <span className='city2'>BENGALURU </span>
         <img src={v7} alt="" className='png1'/>
       </div>
-
       <div>
-        <p className='contact11'>therobotedcompany@gmail.com  <span className='contact21'>+917780484363,8919455711</span></p>
+      <span className='city12'>MUMBAI</span>
+        {/* <p className='contact11'>therobotedcompany@gmail.com  <span className='contact21'>+917780484363,8919455711</span></p> */}
       </div>
     </div>
   )

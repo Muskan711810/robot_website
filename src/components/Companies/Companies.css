@@ -35,12 +35,10 @@
 {
     height: 150px;
     width: 20%;
-    /* padding-right: 4rem;
-    padding-left: 4rem; */
-    padding-right: 1rem;
-    padding-left: 3rem;
-    margin-left: 80px;
-    margin-right: 80px;
+    /* padding-right: 1rem; */
+    /* padding-left: 3rem; */
+    /* margin-left: 80px; */
+    /* margin-right: 80px; */
     margin-top: 20px;
     border-radius: 25px;
     
@@ -56,7 +54,7 @@
     align-items: center;
     padding-right: 2rem;
     border-radius: 25px;
-    margin-top: 2rem;
+    margin-bottom: 250px;
 }  
 .contact21{
     background-color: blue;
@@ -64,5 +62,30 @@
     color: white;
     padding-left: 4rem; 
     border-radius: 25px;
-  
+    margin-bottom: 450px;
+}
+.city
+{
+    margin-left: 110px;
+    font-size: large;
+}
+.city1
+{
+    margin-left: 290px;
+    font-size: large;
+}
+.city2
+{
+    margin-left: 340px;
+    font-size: large;
+}
+.city11
+{
+    margin-left: 330px;
+    font-size: large;
+}
+.city12
+{
+    margin-left: 150px;
+    font-size: large;
 }
