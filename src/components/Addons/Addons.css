@@ -40,7 +40,7 @@
     color: red;
     font-size:large
 }
-.t7 {
+.t71 {
     display: flex;
     flex-direction: row;
     margin-left: 30px;
@@ -72,17 +72,6 @@
     
 }
   
-.png1
-{
-    height: 150px;
-    width: 20%;
-    /* padding-right: 4rem;
-    padding-left: 4rem; */
-    padding-right: 4rem;
-    margin-left: 47px;
-    margin-right: 20px;
-    margin-top: 20px;border-radius: 25px;
-}
 .contact1{
     background-color: blue;
     font-size: large;

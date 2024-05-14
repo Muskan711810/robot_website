@@ -1,0 +1,68 @@
+.png10
+{
+    height: 150px;
+    width: 30%;
+    padding-right: 4rem;
+    padding-left: 4rem; 
+    padding-right: 4rem;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 50px;border-radius: 25px;
+    transition: transform 0.5s;
+}
+.png10:hover
+{
+    transform: scale(1.1);
+}
+.d11 {
+    margin-left: 3cm;
+    font-size: large;
+}
+.d12
+{
+    margin-left: 270px;
+    font-size: large;
+    
+}
+.d13
+{
+    margin-left: 200px;
+    padding-top: 2rem;
+    font-size: large;
+    
+}
+.png1
+{
+    height: 150px;
+    width: 20%;
+    /* padding-right: 4rem;
+    padding-left: 4rem; */
+    padding-right: 1rem;
+    padding-left: 3rem;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 20px;
+    border-radius: 25px;
+    
+}
+.contact11{
+    background-color: blue;
+    font-size: large;
+    color: white;
+    margin-left: 350px;
+    margin-right: 350px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-right: 2rem;
+    border-radius: 25px;
+    margin-top: 2rem;
+}  
+.contact21{
+    background-color: blue;
+    font-size: large;
+    color: white;
+    padding-left: 4rem; 
+    border-radius: 25px;
+  
+}

@@ -38,10 +38,10 @@ const Labs = () => {
       </div>
 
       <div>
-        <img src={lab7} alt="" className='png1'/>
-        <img src={lab2} alt="" className='png1'/>
-        <img src={lab33} alt="" className='png1'/>
-        <img src={lab4} alt="" className='png1'/>
+        <img src={lab7} alt="" className='png11'/>
+        <img src={lab2} alt="" className='png11'/>
+        <img src={lab33} alt="" className='png11'/>
+        <img src={lab4} alt="" className='png11'/>
       </div>
 
       <div>

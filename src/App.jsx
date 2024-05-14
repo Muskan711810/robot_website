@@ -8,6 +8,7 @@ import Plode from './components/Plode/Plode'
 import AboutUs from './components/AboutUs/AboutUs'
 import Labs from './components/Labs/Labs'
 import Addons from './components/Addons/Addons'
+import Companies from './components/Companies/Companies'
 
 
 const App = () => {
@@ -21,6 +22,7 @@ const App = () => {
       <Implementation/>
       <Labs/>
       <Addons/>
+      <Companies/>
       <Plode />
       <AboutUs />
     </>

@@ -58,7 +58,7 @@
     /* border: 1rem solid black; */
     border-radius: 25px; 
 }
-.png1
+.png11
 {
     height: 150px;
     width: 20%;
@@ -67,7 +67,8 @@
     padding-right: 4rem;
     margin-left: 47px;
     margin-right: 20px;
-    margin-top: 20px;border-radius: 25px;
+    margin-top: 20px;
+    border-radius: 25px;
 }
 .contact1{
     background-color: blue;
