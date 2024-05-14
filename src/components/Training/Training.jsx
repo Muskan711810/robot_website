@@ -7,6 +7,7 @@ import png01 from'../../assets/png01.jpg'
 const Training = () => {
   return (
     <div>
+      <div className='bt'></div>
       <div>
       <h1 className='t1 t1-bg'>Training And Support</h1>
       <h2 className='t2'>We are Introducing 3 Programs</h2>

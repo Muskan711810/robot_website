@@ -1,11 +1,14 @@
-body {
-    padding: 0;
-    margin: 0;
+.bt
+{
+    border: 2px solid black;
+    margin-top: 90px;
+    margin-left: 1rem;
+    /* padding: 0; */
+    /* margin: 0; */
 }
-   
 .t1 {
     text-align: center;
-    margin-top: 20px;
+    /* margin-top: 80px; */
     color: red;
     border-radius: 25px;
     transition: 0.3 ease;
@@ -19,41 +22,26 @@ body {
     margin-left: 390px;
     margin-right: 350px;
   }
-  .t2
+  .t4
   {
-    background-color: rgb(8, 241, 164);
-    max-width: 450px;
-    margin-left: 20px;
-    margin-top: 20px;
-    text-align: center;
-    font-style: oblique;
-    /* padding-left: 2rem; */
-    margin-left: 2rem;
-    border-radius: 25px;
-  }
-  
-.t3
-{
-    margin: 20px;
-    color:rgb(41, 1, 1);
-    padding-left: 4rem;
+      background-color: rgb(8, 241, 164);
+      max-width: 400px;
+      margin-left: 20px;
+      margin-top: 20px;
+      text-align: center;
+      font-style: oblique;
+      margin-left: 2rem;
+      border-radius: 25px;
+    
 }
-.t4
-{
-    background-color: rgb(8, 241, 164);
-    max-width: 400px;
-    margin-left: 20px;
-    margin-top: 20px;
-    text-align: center;
-    font-style: oblique;
-    margin-left: 2rem;
-    border-radius: 25px;
-  }
-   
-
 .t6{
     color: rgb(10, 10, 238);
     /* font-style: oblique; */
+    font-size:large
+}
+.t8
+{
+    color: red;
     font-size:large
 }
 .t7
@@ -68,14 +56,7 @@ body {
     padding-right: 2rem;
     padding-bottom: 2rem;
     /* border: 1rem solid black; */
-    border-radius: 25px;
-  
-    
-}
-.t8
-{
-    color: red;
-    font-size:large
+    border-radius: 25px; 
 }
 .png1
 {
@@ -86,7 +67,7 @@ body {
     padding-right: 4rem;
     margin-left: 80px;
     margin-right: 80px;
-    margin-top: 20px;
+    margin-top: 20px;border-radius: 25px;
 }
 .contact1{
     background-color: blue;
@@ -99,6 +80,7 @@ body {
     align-items: center;
     padding-right: 2rem;
     border-radius: 25px;
+    margin-top: 10px;
 }  
 .contact2{
     background-color: blue;
@@ -106,6 +88,7 @@ body {
     color: white;
     padding-left: 4rem; 
     border-radius: 25px;
+    margin-top: 10px;
+}  
   
 }
-  

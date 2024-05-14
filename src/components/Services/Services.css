@@ -12,6 +12,9 @@ body {
     background-color: blue;
     max-width: 270px;
     color: white;
+    border-radius: 25px;
+    text-align: center;
+  
 }
 
 .service {
@@ -57,7 +60,7 @@ body {
     justify-content: center;
     margin-bottom: 20px;
     margin-top: 30px;
-
+    border-radius: 25px;
 }
 .expertise-container {
     display: flex;

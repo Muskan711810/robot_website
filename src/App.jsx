@@ -3,8 +3,12 @@ import Home from './components/Home/Home'
 import Services from './components/Services/Services'
 import Acadmics from './components/Acadmics/Acadmics'
 import Training from './components/Training/Training'
+import Implementation from './components/Implementation/Implementation'
 import Plode from './components/Plode/Plode'
 import AboutUs from './components/AboutUs/AboutUs'
+import Labs from './components/Labs/Labs'
+import Addons from './components/Addons/Addons'
+
 
 const App = () => {
   return (
@@ -14,6 +18,9 @@ const App = () => {
       <Services />
       <Acadmics />
       <Training />
+      <Implementation/>
+      <Labs/>
+      <Addons/>
       <Plode />
       <AboutUs />
     </>
