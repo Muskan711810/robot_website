@@ -8,6 +8,7 @@ import img5 from '../../assets/img5.jpg';
 
 
 
+
 const Services = () => {
   return (
     <div className="service-container">
@@ -27,20 +28,20 @@ const Services = () => {
       <div className="service">
         <h4 className='r1'>Teacher Training <br/>and Professional Development: </h4>
         <p className="service-text">We provide training sessions and resources to educators, equipping them with the knowledge and skills to effectively integrate robotics into their classrooms and engage students in STEM learning</p>
-        <img src={img3} alt="" className="img1" />
+        <img src={img3} alt="" className="imgg1" />
       </div>
 
       <div className="service">
         <h4 className='r1'>Robotics Kits and Resources : </h4>
         <p className="service-text">We offer a range of robotics kits, components, and educational materials, enabling schools and educators to implement robotics programs with ease.
 </p>
-        <img src={img4} alt="" className="img1" />
+        <img src={img4} alt="" className="imggg1" />
       </div>
 
       <div className="service">
         <h4 className='r1'>Competition Support: </h4>
         <p className="service-text">We support students participating in robotics competitions by providing coaching, resources, and technical assistance to help them succeed and excel in their endeavors.</p>
-        <img src={img5} alt="" className="img1" />
+        <img src={img5} alt="" className="imgggg1" />
       </div>
 
       <div>

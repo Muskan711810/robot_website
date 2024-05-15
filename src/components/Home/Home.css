@@ -35,41 +35,60 @@
     z-index: -1;
   }
   
-  .logo-container {
+  .content {
     display: flex;
-    flex-direction: column;
-    align-items: flex-end; /* Align to the right */
-    justify-content: center;
-    margin-right: 20px; /* Added margin for spacing */
-  }
-  
-  .logo {
-    width: 100px;
-    height: 100px;
-  }
-  
-  .slogan {
-    text-align: center;
-  }
-  
-  .info-text {
-    background-color: #f0f0f0; /* Grey background */
-    padding: 10px;
-    margin-bottom: 10px;
-  }
-  
-  .field {
+    flex-direction: row; /* Align items horizontally */
+    align-items: center;
+    justify-content: center; /* Center the content horizontally */
+    width: 100%; /* Ensure it spans the full width */
+    padding: 20px; /* Add padding for better spacing */
+}
+
+.logo-container {
+    display: flex;
+    flex-direction: row; /* Align items horizontally */
+    align-items: center; /* Center items vertically */
+    justify-content: center; /* Center the items horizontally */
+    margin-right: 20px;
+    width: 100%; /* Ensure it spans the full width */
+}
+
+.slogan {
+    text-align: left;
+    font-size: 1.5em; /* Increase font size for better visibility */
+    font-weight: bold;
+    color: #b30606;
+    margin-right: 20px; /* Add space between slogan and next item */
+    background-color: rgba(6, 240, 240, 0.89);
+    border-radius: 10px;
+}
+
+.classes {
+    font-weight: bold; /* Make class titles bold */
+    margin-right: 20px; /* Add space between classes and field */
+}
+
+.field {
     color: white;
-    background-color: #333; /* Dark background */
+    background-color: #333;
     padding: 10px;
     border-radius: 5px;
-  }
+    max-width: 350px;
+    text-align: left; /* Align text to the left */
+}
+
+
+
+
   
   .para {
     border: 1px solid #ccc; /* Rounded border */
     border-radius: 10px;
     padding: 10px;
     margin-bottom: 10px;
+    margin-left: 1rem;
+    background-color: rgba(128, 128, 128, 0.459);
+    text-align: center;
   }
   
   .nep {
@@ -78,6 +97,7 @@
     background-color: #f0f0f0; /* Grey background */
     padding: 10px;
     margin-bottom: 10px;
+    text-align: center;
   }
   
   .cards {

@@ -1,14 +1,16 @@
 import React from 'react'
 import './Acadmics.css'
-import logo from '../../assets/logo2.jpg'
+
 
 const Acadmics = () => {
   return (
-    <dv>
-       <div className='logo'>
-            <img src={logo} alt="logo" className='logo'/>
-        </div>
-    </dv>
+    <div className="horizontal-line">
+  <h2 className='a1'>Early STEM</h2>
+  <h2 className='a2'>Primary</h2>
+  <h2 className='a3'>Middle School</h2>
+  <h2 className='a4'>Secondary</h2>
+</div>
+
   );
 }
 

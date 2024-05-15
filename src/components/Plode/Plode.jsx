@@ -4,6 +4,7 @@ import robo2 from '../../assets/robo2.jpg'
 import tb from '../../assets/tb.png'
 import robo1 from '../../assets/robo1.png'
 
+
 const Plode = () => {
   return (
     <div>
@@ -11,11 +12,14 @@ const Plode = () => {
       <div className='bt3'></div>
 
       <div className='pl5'>
-  <h3>Plode -<br/>Playful Coding</h3>
-  <p>one platform. Infinite Creations.</p>
-  <p className='pl6'>Plode Software Suite: A playfully<br/>created programming software<br/>platform that supports our entire<br/>series of STEM products.</p>
-  <img src={robo1} alt="" className="pl-image" />
-</div>
+      <div className='pl-content'>
+        <h3 className='two'>Plode -<br/>Playful Coding</h3>
+        <p className='one'>one platform. Infinite Creations.</p>
+        <p className='pl6'>Plode Software Suite: A playfully<br/>created programming software<br/>platform that supports our entire<br/>series of STEM products.</p>
+      </div>
+      <img src={robo1} alt="" className="pl-image" />
+    </div>
+
 
 
       <div>

@@ -22,22 +22,46 @@
   .pl5 {
     display: flex; /* Set the display to flex */
     align-items: center; /* Align items vertically in the center */
-    margin-left: 120px;
-    margin-top: 120px;
-  }
-  
-  .pl6 {
+    justify-content: space-between; /* Ensure space between content and image */
+    margin-left: 220px;
+    margin-top: 100px;
+}
+
+.pl-content {
+    max-width: 60%; /* Set maximum width for the content to prevent overflow */
+}
+
+.pl6 {
     font-style: oblique;
     margin-top: 30px;
     font-size: large;
-  }
-  
-  .pl-image {
-    margin-left: auto; /* Align the image to the right */
-    margin-right: 20px; /* Add some space between the text and the image */
+}
+
+.one {
+    /* margin-top: 10px; */
+    /* margin-right: 5rem; */
+    color: red;
+    font-size: large;
+}
+
+.two {
+    /* margin-right: 5rem; */
+    color: red;
+}
+
+.pl-image {
+    margin-right: 290px; /* Add some space between the text and the image */
     height: 240px;
-    width: 30%;
-  }
+    width: 30%; /* Set width to 30% for better alignment */
+    object-fit: cover; /* Ensure image covers the designated area without distortion */
+    transition: transform 0.5s;
+    border-radius: 10px;
+}
+.pl-image:hover
+{
+    transform: scale(1.1);
+}
+
   
 .bt31
  {

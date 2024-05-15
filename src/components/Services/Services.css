@@ -48,6 +48,28 @@ body {
     width: 20%;
     border: 1px solid red;
     /* margin-left: auto; Remove this line */
+    margin-top: 1rem;
+}
+.imgg1 {
+    height: 110px;
+    width: 24%;
+    border: 1px solid red;
+    /* margin-left: auto; Remove this line */
+    margin-top: 1rem;
+}
+.imggg1 {
+    height: 110px;
+    width: 19%;
+    border: 1px solid red;
+    /* margin-left: auto; Remove this line */
+    margin-top: 1rem;
+}
+.imgggg1 {
+    height: 110px;
+    width: 20%;
+    border: 1px solid red;
+    /* margin-left: auto; Remove this line */
+    margin-top: 1rem;
 }
 .r2
 {
