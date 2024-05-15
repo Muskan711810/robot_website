@@ -1,17 +1,108 @@
-.horizontal-line {
-  display: flex; /* Display children elements in a row */
-}
 
-.a1, .a2, .a3, .a4 {
+.a1{
   margin: 0; /* Remove default margin */
   padding: 10px; /* Add padding for spacing */
   color: white; /* Set text color */
-}
-
-.a1 {
   background-color: red;
+  max-width: 190px;
+  border-radius: 20px;
+  text-align: center;
+  transition: transform 0.5s;
+
+}
+.a1:hover{
+  transform: scale(1.1);
+}
+.g1 {
+  margin-left: 30px;
+  margin-top: 10px;
+  margin-right: 150px;
+  /* color: red; */
+}
+.gg1 {
+  margin-left: 30px;
+  margin-top: 10px;
+  margin-right: 110px;
+  background-color: greenyellow;
+}
+.g11{
+  margin-left: 3rem;
+  color: red;
+  
 }
 
-.a2, .a3, .a4 {
-  background-color: yellow;
+.p1 {
+  font-style: oblique;
+  font-size: large;
+  margin-left: 3rem;
+  margin-top: 10px; /* Add margin-top to create space between the heading and paragraph */
+  line-height: 1.5; /* Adjust line height for extra space between lines */
 }
+.ps1, ps2, ps3
+{
+  margin-left: 1rem;
+}
+.ps2
+{
+  margin-left: 1rem;
+}
+.ps3{
+margin-left: 1rem;
+}
+.ps4{
+  margin-left: 1rem;
+}
+.ps5{
+  margin-left: 1rem;
+}
+.g1, p1{
+  background-color: greenyellow;
+}
+.a2{
+  margin: 0; /* Remove default margin */
+  padding: 10px; /* Add padding for spacing */
+  color: white; /* Set text color */
+  background-color: rgb(214, 214, 5);
+  max-width: 190px;
+  border-radius: 20px;
+  text-align: center;
+  margin-top: 30px;
+  transition: transform 0.5s;
+
+}
+.a2:hover{
+  transform: scale(1.1);
+}
+
+.a3{
+  margin: 0; /* Remove default margin */
+  padding: 10px; /* Add padding for spacing */
+  color: white; /* Set text color */
+  background-color: green;
+  max-width: 190px;
+  border-radius: 20px;
+  text-align: center;
+  margin-top: 30px;
+  transition: transform 0.5s;
+
+}
+.a3:hover{
+  transform: scale(1.1);
+}
+
+.a4{
+  margin: 0; /* Remove default margin */
+  padding: 10px; /* Add padding for spacing */
+  color: white; /* Set text color */
+  background-color: violet;
+  max-width: 190px;
+  border-radius: 20px;
+  text-align: center;
+  margin-top: 30px;
+  transition: transform 0.5s;
+
+}
+.a4:hover{
+  transform: scale(1.1);
+}
+

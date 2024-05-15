@@ -49,28 +49,53 @@ body {
     border: 1px solid red;
     /* margin-left: auto; Remove this line */
     margin-top: 1rem;
+    transition: transform 0.5s;
+
 }
+.img1:hover{
+  transform: scale(1.1);
+}
+
 .imgg1 {
     height: 110px;
     width: 24%;
     border: 1px solid red;
     /* margin-left: auto; Remove this line */
     margin-top: 1rem;
+    transition: transform 0.5s;
+
+
 }
+.imgg1:hover{
+  transform: scale(1.1);
+}
+
 .imggg1 {
     height: 110px;
     width: 19%;
     border: 1px solid red;
     /* margin-left: auto; Remove this line */
     margin-top: 1rem;
+    transition: transform 0.5s;
+
 }
+.imggg1:hover{
+  transform: scale(1.1);
+}
+
 .imgggg1 {
     height: 110px;
     width: 20%;
     border: 1px solid red;
     /* margin-left: auto; Remove this line */
     margin-top: 1rem;
+    transition: transform 0.5s;
+
 }
+.imgggg1:hover{
+  transform: scale(1.1);
+}
+
 .r2
 {
     background-color: blue;
