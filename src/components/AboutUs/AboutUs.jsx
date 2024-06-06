@@ -31,10 +31,10 @@ const AboutUs = () => {
       <div className='contact-container'>
   <div className='m111'>
     <h2 className='m11'>Contact us:</h2>
-    <p><span className='con'>Email: </span>therobotedcompany@gmail.com </p>
-    <p><span className='con'>Phone: </span>+91-7780484363 , 8919455711 </p>
-    <p><span className='con'>CORPORATE OFFICE :</span>   2nd Floor, VSM Building,<br/> Destiny Tech Services,
-      Renigunta Rd, beside<br/> NEXA Showroom, Tirupati, Andhra Pradesh 517501
+    <p><span className='con'>Email: </span>abcd0440@gmail.com </p>
+    <p><span className='con'>Phone: </span>+91-7020028274 , 9822843808 </p>
+    <p><span className='con'>CORPORATIVE OFFICE :</span>   7nd Floor, LMN Building,<br/> Robotic Tech Services,
+      Renigunta Rd, beside<br/> NEXA Showroom, Pune,517545
     </p>
   </div>
   <img src={robo3} alt="" className="contact-image" />

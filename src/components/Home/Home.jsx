@@ -88,7 +88,7 @@ const Home = () => {
         </div>
       </div>
       <div>
-        <p className='contact1'>therobotedcompany@gmail.com  <span className='contact2'>+917780484363,8919455711</span></p>
+        <p className='contact1'>therobotedcompany@gmail.com  <span className='contact2'>+917020028274,9822843908</span></p>
       </div>
     </div>
     // </div>
